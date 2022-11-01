@@ -14,7 +14,6 @@
 
 ![zero-g-x's github stats](https://github-readme-stats.vercel.app/api?username=zero-g-x&show_icons=true)
 
-#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero-g-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [zero-g-x](https://github.com/zero-g-x)
 <!--
@@ -22,6 +21,7 @@
 
 Here are some ideas to get you started:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zero-g-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 This is g(x) ...
 - 🔭 I’m currently a CS student in Huazhong University of Science and Technology ...
 - 💬 Ask me about whatever you like ...
