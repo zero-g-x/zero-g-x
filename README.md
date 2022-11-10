@@ -5,10 +5,10 @@
 - 🔭 I’m currently a 4th year CS student at Huazhong Unversity of Science and Technology.
 - 💼 I'm a backend developer using GoLang.
 - 🧃 I'm learning and interested in computer system and Linux kernel.
-- 💬 I love cycling, swimming and reading! Ask me about whatever you like.
+- 💬 I love cycling, swimming and reading! Ask me whatever you like.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
-  - [blog](zero-g-x.github.io)
+  - [blog](https://zero-g-x.github.io)
 - ⚡ Fun fact: I prefer dogs to cats.
 ### My GitHub Stars
 
