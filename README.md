@@ -4,7 +4,7 @@
 
 - 🔭 Just get my bachelor's degree and become a full-time programmer.
 - 💼 I'm learning and working on deep learning optimization platform.
-- 💬 I love fitness.
+- 🏋️‍♀️ I love fitness.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
   - [blog](https://zero-g-x.github.io)
