@@ -2,10 +2,9 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I’m currently a 4th year CS student at HUST.
-- 💼 I'm a backend developer using GoLang.
-- 🧃 I'm learning and interested in computer system and Linux kernel.
-- 💬 I love cycling, swimming and reading! Ask me whatever you like.
+- 🔭 Just get my bachelor's degree and become a full-time programmer.
+- 💼 I'm learning and working on deep learning optimization platform.
+- 💬 I love fitness.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
   - [blog](https://zero-g-x.github.io)
