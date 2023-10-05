@@ -2,9 +2,10 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 Just get my bachelor's degree and become a full-time programmer.
-- 💼 My job is optimizing deep learning training system.
-- 🏋️‍♀️ I love fitness.
+- 🔭 I'm working on optimizing training performance of online deep learning system for recommendation platform.
+- 🧳 I took a 4 months' intership developing web backend of machine learning training platform.
+- 💼 My tech stack: C++, python, GoLang, Tensorflow, CUDA...
+- 🏋️‍♀️ Work hard workout harder.
 - 📫 How to reach me: 
   - [mail](mailto:im.guoxi@gmail.com)
   - [blog](https://zero-g-x.github.io)
